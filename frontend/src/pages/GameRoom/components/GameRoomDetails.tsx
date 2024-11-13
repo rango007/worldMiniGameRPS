@@ -1,0 +1,1 @@
+// Displays details of a single game room and players’ status
